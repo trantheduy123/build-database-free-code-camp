@@ -1,0 +1,33 @@
+2024-03-30 09:40:01.862 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2024-03-30 09:40:01.862 [info] Activation> Extension version: 0.82.1
+2024-03-30 09:40:03.451 [info] Looking for git repository
+2024-03-30 09:40:03.451 [info] Found 0 repositories during activation
+2024-03-30 09:40:03.451 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-30 09:40:03.454 [info] Registering git provider
+2024-03-30 09:40:03.454 [info] Review+0> Validate state in progress
+2024-03-30 09:40:03.454 [info] Review+0> Validating state...
+2024-03-30 09:40:03.633 [info] Found GitHub remote for folder /workspace/project
+2024-03-30 09:40:03.897 [info] Trying to use globalState for assignableUsers.
+2024-03-30 09:40:04.026 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-30 09:40:04.263 [info] GlobalState does not exist for assignableUsers.
+2024-03-30 09:40:04.642 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-30 09:40:07.996 [info] Repo state for file:///workspace/project changed.
+2024-03-30 09:40:07.996 [info] Repo file:///workspace/project has already been setup.
+2024-03-30 09:40:24.468 [info] Review+0> Validate state in progress
+2024-03-30 09:40:24.468 [info] Review+0> Validating state...
+2024-03-30 09:40:24.756 [info] Found GitHub remote for folder /workspace/project
+2024-03-30 09:40:24.758 [info] Using in-memory cached assignable users.
+2024-03-30 09:40:24.773 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-30 09:40:25.233 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-30 09:40:30.121 [info] Review+0> Validate state in progress
+2024-03-30 09:40:30.121 [info] Review+0> Validating state...
+2024-03-30 09:40:30.385 [info] Found GitHub remote for folder /workspace/project
+2024-03-30 09:40:30.386 [info] Using in-memory cached assignable users.
+2024-03-30 09:40:30.395 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-30 09:40:30.912 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-30 10:12:44.307 [info] Review+0> Validate state in progress
+2024-03-30 10:12:44.307 [info] Review+0> Validating state...
+2024-03-30 10:12:44.574 [info] Found GitHub remote for folder /workspace/project
+2024-03-30 10:12:44.575 [info] Using in-memory cached assignable users.
+2024-03-30 10:12:44.586 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-30 10:12:45.038 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
